@@ -1,0 +1,19 @@
+---
+facts: This case represents the consolidation of four cases, in each of which the defendant confessed guilt after being subjected to a variety of interrogation techniques without being informed of his Fifth Amendment rights during an interrogation. On March 13, 1963, Ernesto Miranda was arrested in his house and brought to the police station where he was questioned by police officers in connection with a kidnapping and rape. After two hours of interrogation, the police obtained a written confession from Miranda. The written confession was admitted into evidence at trial despite the objection of the defense attorney and the fact that the police officers admitted that they had not advised Miranda of his right to have an attorney present during the interrogation. The jury found Miranda guilty. On appeal, the Supreme Court of Arizona affirmed and held that Miranda’s constitutional rights were not violated because he did not specifically request counsel.
+question: Does the Fifth Amendment’s protection against self-incrimination extend to the police interrogation of a suspect?
+holding: Yes
+url: https://www.oyez.org/cases/1965/759
+tags:
+  - 5a
+  - miranda-rights
+decided_by: "[[Warren Court]]"
+year: 1965
+---
+
+The Fifth Amendment requires that law enforcement officials advise suspects of their right to remain silent and to obtain an attorney during interrogations while in police custody.
+
+Chief Justice Earl Warren delivered the opinion of the 5-4 majority, concluding that defendant’s interrogation violated the Fifth Amendment. To protect the privilege, the Court reasoned, procedural safeguards were required. A defendant was required to be warned before questioning that he had the right to remain silent, and that anything he said can be used against him in a court of law. A defendant was required to be told that he had the right to an attorney, and if he could not afford an attorney, one was to be appointed for him prior to any questioning if he so desired. After these warnings were given, a defendant could knowingly and intelligently waive these rights and agree to answer questions or make a statement. Evidence obtained as a result of interrogation was not to be used against a defendant at trial unless the prosecution demonstrated the warnings were given, and knowingly and intelligently waived. 
+
+Justice Tom C. Clark wrote a dissenting opinion in which he argued that the majority’s opinion created an unnecessarily strict interpretation of the Fifth Amendment that curtails the ability of the police to effectively execute their duties. He wrote that the state should have the burden to prove that the suspect was aware of his rights during the interrogation, but that statements resulting from interrogation should not be automatically excluded if the suspect was not explicitly informed of his rights. In his separate dissenting opinion, Justice John M. Harlan wrote that the judicial precedent and legislative history surrounding the Fifth Amendment does not support the view that the Fifth Amendment prohibits all pressure on the suspect. He also argued that there was no legal precedent to support the requirement to specifically inform suspects of their rights. Justices Potter Stewart and Byron R. White joined in the dissent.
+
+Justice White wrote a separate dissent in which he argued that the Fifth Amendment only protects defendants from giving self-incriminating testimony if explicitly compelled to do so. He argued that custodial interrogation was not inherently coercive and did not require such a broad interpretation of the protections of the Fifth Amendment. Such an interpretation harms the criminal process by destroying the credibility of confessions. Justices Harlan and Stewart joined in the dissenting opinion.
