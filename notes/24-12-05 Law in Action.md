@@ -17,9 +17,9 @@ Today's goals are to get you thinking about how you work with knowledge, in its 
 - Goals of notetaking
 - Organizational methods to best facilitate goals
 	- How should we divide knowledge?
-		- Based on time (eg. meeting notes)?
-		- Based on concept?
-		- Based on discipline?
+		- Based on time (eg. meeting notes)? This is the "daily note" idea
+		- Based on concept? This is the "Evergreen" idea
+		- Based on a mix of time and concept? This is the "Zettelkasten"
 	- What are some "folder names" that might make sense to employ for law school?
 - Vertical vs. Horizontal notetaking: The problem of the multi-disciplinary person
 	- Raise your hand if you have two or more majors or certificates
@@ -27,7 +27,7 @@ Today's goals are to get you thinking about how you work with knowledge, in its 
 - Obsidian
 	- Config / Plugins
 	- Markdown
-	- Tags
+	- Tags and Graph View
 	- PDF Viewer
 	- Linked References
 	- Community Plugins
@@ -36,4 +36,4 @@ Today's goals are to get you thinking about how you work with knowledge, in its 
 		- Dataview
 		- Excalidraw
 		- Kanban
-	- 
+- Returning to the Core Ideas
