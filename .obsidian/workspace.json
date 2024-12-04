@@ -48,16 +48,6 @@
             }
           },
           {
-            "id": "de5f47924719e650",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
-            }
-          },
-          {
             "id": "c2f72b70bd80ff10",
             "type": "leaf",
             "state": {
@@ -68,11 +58,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2aeb6895454374fb",
@@ -155,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,11 +161,13 @@
   },
   "active": "7346623de07b0075",
   "lastOpenFiles": [
-    "people/Nate Atkinson.md",
-    "people/Howard Schweber.md",
-    "notes/24-09-12 Law in Action.md",
+    "notes/24-09-5 Law in Action.md",
     "notes/24-09-10 Law in Action.md",
+    "notes/24-09-12 Law in Action.md",
+    "people/Sig Janoska-Bedi.md",
+    "people/Nate Atkinson.md",
     "people/Cecilia Klingele.md",
+    "people/Howard Schweber.md",
     "concepts/Legal Fictions.md",
     "cases/Miranda v. United States.md",
     "cases/Brady v. Maryland.md",
