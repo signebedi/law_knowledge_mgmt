@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2aeb6895454374fb",
@@ -145,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,7 +159,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d3f27e216fdf5dd",
+  "active": "7346623de07b0075",
   "lastOpenFiles": [
     "cases/Riverside County v. McLaughlin.md",
     "cases/Miranda v. United States.md",
