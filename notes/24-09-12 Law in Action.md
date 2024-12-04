@@ -25,3 +25,6 @@ next_class: "[[24-09-17 Law in Action]]"
     - A sole proprietorship and partnership are both very flexible, but provide essentially no liability shield. That means you could be totally liable for your business partner's negligent conduct, though you might be able to sue your partner after the fact to recoup their portion of the  liability.
     - Corporations provide liability protections for their shareholders and boards; further, ownership stakes are easily transferred in a corporation. However, they require a higher degree of sophistication than other businesses - eg. you need a Board of Directors, frequent meetings, and all sorts of other filings and requirements that make these undesirable for small businesses.
     - LLCs tend to provide a good balance between the flexibility of partnerships and the limited-liability of corporations.
+
+
+![[Atkinson Slides Law in Action.pdf]]

@@ -21,3 +21,6 @@ European criminal systems punish «The Other» far more severely than the United
 Court cultures are important, and we see variations esp on crime rates, urban vs. rural, and race. Example: MKE juvenile court is very punitive, surprisingly so give. The amount of youth programming available in MKE vs other areas of the state.
 
 In addition to the criminal law resources and institutions shared by Prof. Klingele, I also pay close attention to the Institute for Justice (https://www.youtube.com/user/InstituteForJustice) and Audit the Audit (https://www.youtube.com/channel/UCc-0YpRpqgA5lPTpSQ5uo-Q). Both take a stance that is clearly and almost exclusively critical of the criminal justice system/s in America. As such, I'd encourage you to consume these resources with a healthy dose of skepticism.
+
+
+![[Klingele Slides Law in Action.pdf]]
