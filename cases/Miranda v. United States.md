@@ -13,9 +13,6 @@ This case represents the consolidation of four cases, in each of which the defen
 Does the Fifth Amendment’s protection against self-incrimination extend to the police interrogation of a suspect?
 
 #### Holding
-Yes
-
-#### Analysis
 The Fifth Amendment requires that law enforcement officials advise suspects of their right to remain silent and to obtain an attorney during interrogations while in police custody.
 
 Chief Justice Earl Warren delivered the opinion of the 5-4 majority, concluding that defendant’s interrogation violated the Fifth Amendment. To protect the privilege, the Court reasoned, procedural safeguards were required. A defendant was required to be warned before questioning that he had the right to remain silent, and that anything he said can be used against him in a court of law. A defendant was required to be told that he had the right to an attorney, and if he could not afford an attorney, one was to be appointed for him prior to any questioning if he so desired. After these warnings were given, a defendant could knowingly and intelligently waive these rights and agree to answer questions or make a statement. Evidence obtained as a result of interrogation was not to be used against a defendant at trial unless the prosecution demonstrated the warnings were given, and knowingly and intelligently waived. 

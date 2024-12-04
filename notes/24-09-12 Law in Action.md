@@ -6,6 +6,7 @@ tags:
 linked_ideas:
   - "[[Agency]]"
   - "[[Limited Liability]]"
+next_class: "[[24-09-17 Law in Action]]"
 ---
 - Key takeaways
     - Agency relationships can be relatively easy to form but carry a great deal of risk

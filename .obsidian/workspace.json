@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/Miranda v. United States.md",
+                "file": "notes/24-09-17 Law in Action.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miranda v. United States"
+              "title": "24-09-17 Law in Action"
             }
           }
         ]
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2aeb6895454374fb",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cases/Miranda v. United States.md",
+                "file": "notes/24-09-17 Law in Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Miranda v. United States"
+              "title": "Backlinks for 24-09-17 Law in Action"
             }
           },
           {
@@ -121,12 +120,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cases/Miranda v. United States.md",
+                "file": "notes/24-09-17 Law in Action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Miranda v. United States"
+              "title": "Outgoing links from 24-09-17 Law in Action"
             }
           },
           {
@@ -135,10 +134,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cases/Miranda v. United States.md"
+                "file": "notes/24-09-17 Law in Action.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Miranda v. United States"
+              "title": "Outline of 24-09-17 Law in Action"
             }
           }
         ],
@@ -161,25 +160,26 @@
   },
   "active": "7346623de07b0075",
   "lastOpenFiles": [
+    "notes/24-09-12 Law in Action.md",
+    "notes/24-09-17 Law in Action.md",
+    "concepts/Limited Liability.md",
+    "concepts/Warren Court.md",
+    "concepts/Prosecutorial Discretion.md",
+    "concepts/Miranda Rights.md",
+    "concepts/Legal Fictions.md",
+    "concepts/Exclusionary Rule.md",
+    "concepts/Brady Rule.md",
+    "concepts/Agency.md",
     "cases/Riverside County v. McLaughlin.md",
-    "cases/Miranda v. United States.md",
     "cases/Mapp v. Ohio.md",
     "cases/Brady v. Maryland.md",
-    "notes/24-09-12 Law in Action.md",
-    "concepts/Limited Liability.md",
-    "concepts/Agency.md",
+    "cases/Miranda v. United States.md",
     "notes/24-09-5 Law in Action.md",
     "notes/24-09-10 Law in Action.md",
-    "concepts/Prosecutorial Discretion.md",
     "people/Sig Janoska-Bedi.md",
     "people/Nate Atkinson.md",
     "people/Cecilia Klingele.md",
     "people/Howard Schweber.md",
-    "concepts/Legal Fictions.md",
-    "concepts/Miranda Rights.md",
-    "concepts/Warren Court.md",
-    "concepts/Exclusionary Rule.md",
-    "concepts/Brady Rule.md",
     "notes",
     "people",
     "concepts",
