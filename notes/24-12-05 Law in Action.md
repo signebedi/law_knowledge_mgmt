@@ -13,7 +13,6 @@ The application has an active community forum (https://forum.obsidian.md/) and a
 #### Discussion Questions
 Today's goals are to get you thinking about how you work with knowledge, in its various forms. What are your goals when taking notes? Is it to learn while you type/write? Is it to structure knowledge for future reference? Is it to get good grades? How does/should your specific goals in taking notes factor into how you structure them? If you are unsatisfied with your approach to notes, would it be worth reappraising your goals?
 
-
 #### Agenda
 - Goals of notetaking
 - Organizational methods to best facilitate goals
