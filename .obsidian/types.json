@@ -26,6 +26,8 @@
     "excalidraw-open-md": "checkbox",
     "cases": "multitext",
     "linked_ideas": "multitext",
-    "reading": "multitext"
+    "reading": "multitext",
+    "author": "multitext",
+    "related": "multitext"
   }
 }
