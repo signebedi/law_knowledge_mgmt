@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0e5b64a212535a80",
+        "id": "eda7ce50e2fe74ae",
         "type": "tabs",
         "children": [
           {
-            "id": "7346623de07b0075",
+            "id": "1430d34d7bd838b2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "literature/Rights Revolution - Charles Epps.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rights Revolution - Charles Epps"
             }
           }
         ]
@@ -142,31 +147,32 @@
     "hiddenItems": {
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7346623de07b0075",
+  "active": "1430d34d7bd838b2",
   "lastOpenFiles": [
+    "documents/Atkinson Slides Law in Action.pdf",
+    "documents",
     "notes/24-09-10 Law in Action.md",
     "literature/Does Australia Have a Constitution - Howard Schweber.md",
     "literature/Inventing the People - Edmund Morgan.md",
     "literature/Institutions - Douglas North.md",
     "literature/Rights Revolution - Charles Epps.md",
     "notes/24-09-5 Law in Action.md",
-    "Introduction, Rights Revolution (Epps).pdf",
-    "Introduction, Inventing the People (Morgan).pdf",
-    "Institutions (North).pdf",
-    "Does Australia have a Constitution, Part II (Schweber).pdf",
+    "documents/Introduction, Rights Revolution (Epps).pdf",
+    "documents/Introduction, Inventing the People (Morgan).pdf",
+    "documents/Institutions (North).pdf",
+    "documents/Does Australia have a Constitution, Part II (Schweber).pdf",
     "people/Howard Schweber.md",
     "concepts/Legal Fictions.md",
     "concepts/Support Structure for Legal Mobilization.md",
     "notes/24-09-12 Law in Action.md",
     "literature",
-    "Klingele Slides Law in Action.pdf",
-    "Atkinson Slides Law in Action.pdf",
+    "documents/Klingele Slides Law in Action.pdf",
     "notes/24-09-17 Law in Action.md",
     "concepts/Limited Liability.md",
     "concepts/Warren Court.md",
