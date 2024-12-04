@@ -15,4 +15,8 @@ Today's goals are to get you thinking about how you work with knowledge, in its 
 
 
 #### Agenda
-- Discuss the goals of you
+- Goals of notetaking
+- Organizational methods to best facilitate goals
+- Vertical vs. Horizontal notetaking: The problem of the multi-disciplinary person
+	- Raise your hand if you have two or more majors or certificates
+	- Keep your hands raised if you think there are overlapping concepts or ideas between some or all of these disciplines 
