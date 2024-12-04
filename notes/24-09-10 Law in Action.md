@@ -1,5 +1,12 @@
 ---
 with: "[[Cecilia Klingele]]"
+previous_class: "[[24-09-5 Law in Action]]"
+next_class: "[[24-09-12 Law in Action]]"
+linked_ideas:
+  - "[[Warren Court]]"
+  - "[[Prosecutorial Discretion]]"
+tags:
+  - law-in-action
 ---
 We run into difficulties in describing trends in an “American” criminal justice system because of Federalism. There is significant variation state by state. However, you see an expansion nationwide in the number of people being prosecuted, and the length of sentences.
 

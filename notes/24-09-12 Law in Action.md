@@ -1,7 +1,11 @@
 ---
 with: "[[Nate Atkinson]]"
-next_class: 
 previous_class: "[[24-09-10 Law in Action]]"
+tags:
+  - law-in-action
+linked_ideas:
+  - "[[Agency]]"
+  - "[[Limited Liability]]"
 ---
 - Key takeaways
     - Agency relationships can be relatively easy to form but carry a great deal of risk

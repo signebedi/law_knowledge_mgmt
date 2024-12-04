@@ -1,5 +1,10 @@
 ---
 with: "[[Sig Janoska-Bedi]]"
+next_class: "[[24-09-10 Law in Action]]"
+linked_ideas:
+  - "[[Legal Fictions]]"
+tags:
+  - law-in-action
 ---
 #### Legal _Fictions_
 
