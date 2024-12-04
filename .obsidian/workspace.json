@@ -145,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +157,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7346623de07b0075",
+  "active": "4d3f27e216fdf5dd",
   "lastOpenFiles": [
+    "cases/Riverside County v. McLaughlin.md",
+    "cases/Miranda v. United States.md",
     "cases/Mapp v. Ohio.md",
     "cases/Brady v. Maryland.md",
     "notes/24-09-12 Law in Action.md",
@@ -173,8 +174,6 @@
     "people/Cecilia Klingele.md",
     "people/Howard Schweber.md",
     "concepts/Legal Fictions.md",
-    "cases/Miranda v. United States.md",
-    "cases/Riverside County v. McLaughlin.md",
     "concepts/Miranda Rights.md",
     "concepts/Warren Court.md",
     "concepts/Exclusionary Rule.md",
