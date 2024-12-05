@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Brady v. Maryland"
             }
+          },
+          {
+            "id": "278caba914166f1e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-05 12.10.35.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-05 12.10.35.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2aeb6895454374fb",
@@ -153,8 +167,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1430d34d7bd838b2",
+  "active": "278caba914166f1e",
   "lastOpenFiles": [
+    "cases/Brady v. Maryland.md",
+    "Excalidraw/Drawing 2024-12-05 12.10.35.excalidraw.md",
+    "Excalidraw",
     "concepts/Legal Fictions.md",
     "concepts/Limited Liability.md",
     "concepts/Brady Rule.md",
@@ -186,10 +203,7 @@
     "concepts/Exclusionary Rule.md",
     "cases/Riverside County v. McLaughlin.md",
     "cases/Mapp v. Ohio.md",
-    "cases/Brady v. Maryland.md",
     "cases/Miranda v. United States.md",
-    "people/Sig Janoska-Bedi.md",
-    "notes",
-    "people"
+    "notes"
   ]
 }
