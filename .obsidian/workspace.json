@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/24-09-12 Law in Action.md",
+                "file": "notes/24-09-10 Law in Action.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24-09-12 Law in Action"
+              "title": "24-09-10 Law in Action"
             }
           }
         ]
@@ -155,10 +155,13 @@
   },
   "active": "1430d34d7bd838b2",
   "lastOpenFiles": [
+    "concepts/Prosecutorial Discretion.md",
+    "notes/24-09-10 Law in Action.md",
+    "notes/24-09-12 Law in Action.md",
+    "people/Cecilia Klingele.md",
+    "people/Nate Atkinson.md",
     "notes/24-09-17 Law in Action.md",
     "notes/24-12-05 Law in Action.md",
-    "notes/24-09-12 Law in Action.md",
-    "notes/24-09-10 Law in Action.md",
     "notes/24-09-5 Law in Action.md",
     "literature/Rights Revolution - Charles Epps.md",
     "documents/Atkinson Slides Law in Action.pdf",
@@ -177,7 +180,6 @@
     "documents/Klingele Slides Law in Action.pdf",
     "concepts/Limited Liability.md",
     "concepts/Warren Court.md",
-    "concepts/Prosecutorial Discretion.md",
     "concepts/Miranda Rights.md",
     "concepts/Exclusionary Rule.md",
     "concepts/Brady Rule.md",
@@ -187,8 +189,6 @@
     "cases/Brady v. Maryland.md",
     "cases/Miranda v. United States.md",
     "people/Sig Janoska-Bedi.md",
-    "people/Nate Atkinson.md",
-    "people/Cecilia Klingele.md",
     "notes",
     "people"
   ]
