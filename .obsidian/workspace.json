@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "Brady v. Maryland"
             }
-          },
-          {
-            "id": "278caba914166f1e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-12-05 12.10.35.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-05 12.10.35.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,13 +57,11 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2aeb6895454374fb",
@@ -167,10 +152,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "278caba914166f1e",
+  "active": "ab664b3edbe31768",
   "lastOpenFiles": [
-    "cases/Brady v. Maryland.md",
     "Excalidraw/Drawing 2024-12-05 12.10.35.excalidraw.md",
+    "cases/Brady v. Maryland.md",
     "Excalidraw",
     "concepts/Legal Fictions.md",
     "concepts/Limited Liability.md",
