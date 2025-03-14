@@ -4,6 +4,9 @@ year: 1990
 tags:
   - 48-hour-rule
 ---
+#### Notes
+#idea many jurisdictions fail to uphold the 48-hour rule for warrantless arrestees booked after 5pm on a Friday.
+
 #### Facts
 McLaughlin was arrested without a warrant and argued that Riverside did not act promptly (within 48 hours) on judicial probable cause determinations and arraignment procedures in his case and others.
 
